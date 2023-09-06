@@ -3,7 +3,7 @@ This is a python script to calculate Monthly Recurring Revenue (MRR), which is a
 
 The MRR metric, being a non-GAAP metric, is not easily ascertainable from the accounting and financial records of the business.
 
-This script helps in calculation of MRR on a daily and monthly basis.
+This script helps in calculation of MRR on a day-wise and monthly basis.
 
 ## Features
 Supports calculation for multiple types of customer subscription plans. It will give output on plan-wise and overall basis.
@@ -26,7 +26,7 @@ Output will be in the form of four CSV files.
 
 1st file: Daily plan-wise new MRR, churn MRR and closing MRR.
 
-2nd file: Day total new MRR, churn MRR and closing MRR.
+2nd file: Daily total new MRR, churn MRR and closing MRR.
 
 3rd file: Monthly plan-wise new MRR, churn MRR and closing MRR.
 
