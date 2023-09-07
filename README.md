@@ -34,7 +34,9 @@ Output will be in the form of four CSV files.
 
 ## Note
 
-Though we have taken adequate care to create this script, however there may have been errors or omissions. The author is not responsible for such errors. This script is provided as-is with no warranties. This script will be suited for specific situations and there might be various business situations which the script does not support at present.
+Though we have taken adequate care to create this script, however there may have been errors or omissions. The author is not responsible for such errors. This script is provided as-is with no warranties. 
+
+This script will be suited for specific situations only and there might be various business situations which the script does not support at present.
 
 Please consult professionals before taking any decisions.
 
